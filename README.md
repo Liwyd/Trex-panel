@@ -3,14 +3,46 @@
     <img width="150px" src="./logos/1770454317867.png" alt="Trex Panel Logo">
   </a>
 
-
-  # **Trex Panel**
-  <p align="center">
-    <a href="https://t.me/GrayCocaine" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=telegram" alt="Telegram Channel">
-    </a>
-  </p>
+  # **Trex Panel - Next.js Refactor**
 </div>
+
+This is a modern dashboard application built with Next.js 14 for managing proxy panels (Xray/V2Ray/SS).
+```
+
+c:\Users\Ali\Desktop\Trex-panel\README.md
+```markdown
+<<<<<<< SEARCH
+---
+
+
+## ✨ Features
+
+| Feature | Description |
+|---------|-------------|
+| 🔐 **Role-Based Access** | SuperAdmin & Admin roles with granular permissions |
+| 📊 **Unified Dashboard** | Monitor all panels from a single interface |
+| 👥 **User Management** | Create, edit, and manage users across panels |
+| 📈 **Traffic Monitoring** | Real-time traffic statistics and limits |
+| 🔄 **Auto Sync** | Automatic synchronization with X-UI panels |
+| 🌙 **Dark/Light Mode** | Beautiful UI with theme support |
+| 🐳 **Docker Ready** | One-command deployment |
+## 🎯 Features
+
+- Modern UI with Tailwind CSS
+- Authentication system
+- Admin management
+- Panel management
+- Dashboard with statistics
+- Responsive design
+
+## 🛠️ Tech Stack
+
+- Next.js 14 with App Router
+- React 18
+- TypeScript
+- Tailwind CSS
+- Radix UI Primitives
+- Lucide React Icons
 
 
 
