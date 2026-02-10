@@ -165,7 +165,7 @@ export function AdminForm({ onSubmit, onCancel, initialData }: AdminFormProps) {
           id="isActive"
           name="isActive"
           checked={formData.isActive}
-          onCheckedChange={(checked) => setFormData(prev => ({ ...prev, isActive: checked }))}
+          onCheckedChange={(checked) => setFormData(prev => ({ ...prev, isActive: Boolean(checked) }))}
         />
         <Label htmlFor="isActive">Is Active</Label>
       </div>
@@ -175,7 +175,7 @@ export function AdminForm({ onSubmit, onCancel, initialData }: AdminFormProps) {
           id="returnTraffic"
           name="returnTraffic"
           checked={formData.returnTraffic}
-          onCheckedChange={(checked) => setFormData(prev => ({ ...prev, returnTraffic: checked }))}
+          onCheckedChange={(checked) => setFormData(prev => ({ ...prev, returnTraffic: Boolean(checked) }))}
         />
         <Label htmlFor="returnTraffic">Return Traffic</Label>
       </div>

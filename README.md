@@ -7,11 +7,7 @@
 </div>
 
 This is a modern dashboard application built with Next.js 14 for managing proxy panels (Xray/V2Ray/SS).
-```
 
-c:\Users\Ali\Desktop\Trex-panel\README.md
-```markdown
-<<<<<<< SEARCH
 ---
 
 
